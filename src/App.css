@@ -1,0 +1,15 @@
+body {
+  width: 100vw;
+}
+  form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 60px;
+  }
+  input, select, textarea, .radios, .checks{
+    margin-bottom: 20px;
+
+  }
+  .radios, .checks label {
+    margin-right: 20px;
+  }
